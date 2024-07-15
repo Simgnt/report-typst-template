@@ -154,7 +154,7 @@ pagebreak()
  
   //Configuration de l'interligne
   
-  set par(leading: 1.5em)
+  set par(leading: 1.5em, justify: true)
 
 
   // Corps du texte
