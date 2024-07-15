@@ -5,6 +5,7 @@ institution:
 stagemaster: 
 datedebut: 
 datefin: 
+ville:
 bibliography: ref.bib
 remerciements: |
   Je voudrais tout d'abord remercier mon chat qui m'a toujours soutenu...
