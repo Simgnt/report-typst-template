@@ -1,17 +1,4 @@
 # Report Format
 
-## Installing
-
-_TODO_: Replace the `<github-organization>` with your GitHub organization.
-
-```bash
-quarto use template <github-organization>/report
-```
-
-This will install the format extension and create an example qmd file
-that you can use as a starting place for your document.
-
-## Using
-
-_TODO_: Describe how to use your format.
+Template typst pour quarto correspondant au format du rapport de stage ENSAE. Il suffit de télécharger le dossier _extensions dans son environnement et de remplir le header de la même façon que dans le template. 
 
